@@ -2,7 +2,6 @@ import requests as r
 import urllib.request, json 
 import core.menu as menu
 import colorama
-import core.user_agent as agent
 
 menu.main()
 
