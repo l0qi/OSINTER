@@ -2,24 +2,28 @@
 
 <p align="center">
   <b>OSINTER</b> <br>
-  <b>Program for search information about IP/PHONE/SUBDOM/SUBNET.</b> <br>
+  <b>⛓ Program for search information about IP/PHONE/SUBDOM/SUBNET.</b> <br>
   <i>Tested on Ubuntu and Manjaro.</i>
 </p>
 
+## 💎 Functions:
+- [X] extractLink  <Download all links from site>
+- [X] Subnet Lokup  <Calculates subnet boundaries>
+- [X] Subdomain finder  <find subdomains>
+- [X] NumberSearch <Information about phone number>
 
-<h4>This program was by created for search information about:</h4> <i>IP/PHONE/SUBDOM/SUBNET</i>
-
-
-# MENU:
+## Menu:
 <img src="https://github.com/l0qi/OSINTER/blob/main/img/1.PNG">
 
 
-# SUBNET:
+
+## Subnet:
 <img src="https://github.com/l0qi/OSINTER/blob/main/img/2.PNG">
 
-# SUBDOM:
+
+## Subdom:
 <img src="https://github.com/l0qi/OSINTER/blob/main/img/3.PNG">
 
 
-# PHONE NUMBER:
+## Phone Number:
 <img src="https://github.com/l0qi/OSINTER/blob/main/img/4.PNG">
