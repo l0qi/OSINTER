@@ -12,6 +12,16 @@
 - [X] Subdomain finder  <find subdomains>
 - [X] NumberSearch <Information about phone number>
 
+
+## 🔌 Installing 
+``` bash 
+git clone https://github.com/l0qi/OSINTER.git
+cd OSINTER
+pip install -r requirements.txt
+python main.py
+
+```
+
 ## Menu:
 <img src="https://github.com/l0qi/OSINTER/blob/main/img/1.PNG">
 
